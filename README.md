@@ -33,5 +33,13 @@ Implementada con `ChromaDB` y `Sentence-Transformers` (`all-MiniLM-L6-v2`), perm
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <tu-url-del-repositorio>
-   cd <nombre-de-la-carpeta>
+   git clone https://github.com/wgekko/app_ventas_systemchromadb.git
+
+
+video demo
+
+
+
+
+
+
